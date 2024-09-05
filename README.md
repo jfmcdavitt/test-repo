@@ -11,4 +11,4 @@ You run it with the command that runs it
 You can if you want, I don't really care
 
 ## License
-Something Something Legal Bagel
+If you run this without my permission, I will raid your fridge
